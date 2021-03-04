@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, welcome To IAI-Cameroon open Github Repo</h1>
 <h3 align="center">African Institute of Computers Sciences from Yaounde - Cameroon</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbia1378" alt="mbia1378" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iai-cameroun" alt="iai-cameroun" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mbia_cyrille" target="blank"><img src="https://img.shields.io/twitter/follow/mbia_cyrille?logo=twitter&style=for-the-badge" alt="mbia_cyrille" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iaicmr_officiel" target="blank"><img src="https://img.shields.io/twitter/follow/iaicmr_officiel?logo=twitter&style=for-the-badge" alt="iaicmr_officiel" /></a> </p>
 
 - 🔭 I’m currently working on [Laravel](https://github.com/laravel/laravel)
 
