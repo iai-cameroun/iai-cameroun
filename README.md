@@ -7,22 +7,20 @@
 
 - 🔭 I’m currently working on [Laravel](https://github.com/laravel/laravel)
 
-- 🌱 I’m currently learning **Flutter, How It's Works**
-
 - 👨‍💻 All of my open projects are available at [https://github.com/iai-cameroun](https://github.com)
 
 - 📝 I regularly write articles on [https://iaicameroun.com](https://iaicameroun.com)
 
 - 📫 How to reach me **contact@iaicameroun.com**
 
-- ⚡ I love **Code, Network, devop's, learning**
+- ⚡ I love **Code, Network, devop's, learning etc...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iaicmr_officiel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="IAI-Cameroun" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/cyrille-mbia-453b80142/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aveybd" height="30" width="40" /></a>
-<a href="https://www.facebook.com/cyrille.mbia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mbia cyrille" height="30" width="40" /></a>
-<a href="https://instagram.com/mbia1378" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mbia cyrille" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/iai-cameroon/mycompany/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IAI-Cameroun" height="30" width="40" /></a>
+<a href="https://www.facebook.com/IAICamerounOfficiel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="IAI-Cameroun" height="30" width="40" /></a>
+<a href="https://instagram.com/iai_cmr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="IAI-Cameroun" height="30" width="40" /></a>
 </p>
 
 
