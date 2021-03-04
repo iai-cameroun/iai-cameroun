@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, welcome To IAI-Cameroon Github Repo</h1>
-<h3 align="center">A code lover from Yaounde - Cameroon</h3>
+<h1 align="center">Hi 👋, welcome To IAI-Cameroon open Github Repo</h1>
+<h3 align="center">African Institute of Computers Sciences from Yaounde - Cameroon</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbia1378" alt="mbia1378" /></a> </p>
 
